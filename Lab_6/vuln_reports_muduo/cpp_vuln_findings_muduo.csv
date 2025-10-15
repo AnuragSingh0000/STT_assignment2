@@ -1,0 +1,24 @@
+Project_name,Tool_name,CWE_ID,Number_of_Findings,Is_In_CWE_Top_25?
+muduo,Cppcheck,CWE-119,11,False
+muduo,Cppcheck,CWE-398,85,False
+muduo,Cppcheck,CWE-476,2,True
+muduo,Cppcheck,CWE-561,1,False
+muduo,Cppcheck,CWE-563,3,False
+muduo,Cppcheck,CWE-570,2,False
+muduo,Cppcheck,CWE-571,1,False
+muduo,Cppcheck,CWE-685,1,False
+muduo,Cppcheck,CWE-686,14,False
+muduo,Cppcheck,CWE-758,29,False
+muduo,Cppcheck,Unknown,1223,False
+muduo,Flawfinder,CWE-119,111,False
+muduo,Flawfinder,CWE-120,42,False
+muduo,Flawfinder,CWE-126,19,False
+muduo,Flawfinder,CWE-134,419,False
+muduo,Flawfinder,CWE-190,102,True
+muduo,Flawfinder,CWE-20,35,True
+muduo,Flawfinder,CWE-327,1,False
+muduo,Flawfinder,CWE-362,17,False
+muduo,Flawfinder,CWE-676,4,False
+muduo,Flawfinder,CWE-807,4,False
+muduo,Semgrep,CWE-125: Out-of-bounds Read,1,True
+muduo,Semgrep,CWE-22: Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),1,True

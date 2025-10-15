@@ -1,0 +1,15 @@
+Project_name,Tool_name,CWE_ID,Number_of_Findings,Is_In_CWE_Top_25?
+xiaozhi-esp32,Cppcheck,CWE-398,420,False
+xiaozhi-esp32,Cppcheck,CWE-401,4,False
+xiaozhi-esp32,Cppcheck,CWE-476,33,True
+xiaozhi-esp32,Cppcheck,CWE-561,56,False
+xiaozhi-esp32,Cppcheck,CWE-563,23,False
+xiaozhi-esp32,Cppcheck,CWE-571,6,False
+xiaozhi-esp32,Cppcheck,CWE-597,1,False
+xiaozhi-esp32,Cppcheck,CWE-672,1,False
+xiaozhi-esp32,Cppcheck,CWE-686,4,False
+xiaozhi-esp32,Cppcheck,CWE-758,62,False
+xiaozhi-esp32,Cppcheck,CWE-783,2,False
+xiaozhi-esp32,Cppcheck,Unknown,2789,False
+xiaozhi-esp32,Semgrep,CWE-416: Use After Free,3,True
+xiaozhi-esp32,Semgrep,CWE-78: Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection'),1,True
